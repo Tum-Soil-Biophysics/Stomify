@@ -1,0 +1,13 @@
+{
+  "upload_type": "software",
+  "title": "Stomify: a deep learning desktop application for automated stomatal counting",
+  "creators": [
+    {"name": "Arachchillage, Vimukthi", "affiliation": "Soil Biophysics and Environmental Systems, Technical University of Munich"},
+    {"name": "Chaudhary, Nupur Prakashbhai", "affiliation": "Soil Biophysics and Environmental Systems, Technical University of Munich"},
+    {"name": "Gupta, Saniv", "affiliation": "Soil Biophysics and Environmental Systems, Technical University of Munich"},
+    {"name": "Zarebanadkouki, Mohsen", "affiliation": "Soil Biophysics and Environmental Systems, Technical University of Munich"}
+  ],
+  "description": "Stomify is a desktop application for automated stomatal counting and stomatal density measurement from leaf epidermal impressions. It uses a YOLOv8m deep learning model (Ultralytics) trained on maize leaf impressions imaged with a light microscope at 10x magnification. The published software record with the trained model and Windows installer is available at https://doi.org/10.5281/zenodo.23319544.",
+  "keywords": ["stomata", "stomatal density", "deep learning", "YOLOv8", "plant phenotyping", "maize"],
+  "license": "AGPL-3.0-or-later"
+}
