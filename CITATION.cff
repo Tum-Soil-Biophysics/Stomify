@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use Stomify, please cite it as below."
+type: software
+title: "Stomify: a deep learning desktop application for automated stomatal counting"
+version: "1.0"
+date-released: "2026-10-12"
+doi: "10.5281/zenodo.23319544"
+license: AGPL-3.0-only
+authors:
+  - family-names: "Arachchillage"
+    given-names: "Vimukthi"
+    affiliation: "Technical University of Munich"
+  - family-names: "Chaudhary"
+    given-names: "Nupur Prakashbhai"
+    affiliation: "Technical University of Munich"
+  - family-names: "Gupta"
+    given-names: "Saniv"
+    affiliation: "Technical University of Munich"
+  - family-names: "Zarebanadkouki"
+    given-names: "Mohsen"
+    affiliation: "Technical University of Munich"
+keywords:
+  - stomata
+  - stomatal density
+  - deep learning
+  - YOLOv8
+  - plant phenotyping
